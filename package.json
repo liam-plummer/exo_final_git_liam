@@ -1,0 +1,23 @@
+{
+  "name": "exo-git-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam-plummer/exo_final_git_liam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liam-plummer/exo_final_git_liam/issues"
+  },
+  "homepage": "https://github.com/liam-plummer/exo_final_git_liam#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
